@@ -40,7 +40,7 @@ Procedure Close_MainUI(*UI.MainUI)
 EndProcedure
 
 Procedure ResizeMainUi()
-  Debug "Resize"
+  Debug "TODO: Resize"
 EndProcedure
 
 
@@ -109,7 +109,7 @@ Procedure OpenWindow_MainUI(*UI.MainUI,x = 0, y = 0, width = 1240, height = 710)
   EndWith
 EndProcedure
 ; IDE Options = PureBasic 6.00 LTS (Windows - x64)
-; CursorPosition = 64
-; FirstLine = 53
-; Folding = -
+; CursorPosition = 42
+; FirstLine = 4
+; Folding = 7
 ; EnableXP

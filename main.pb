@@ -2,6 +2,7 @@
 IncludeFile "ConnectionWizard.pb"
 IncludeFile "Config.pb"
 IncludeFile "MainUI.pb"
+IncludeFile "Map.pb"
 
 UsePNGImageDecoder()
 
@@ -22,5 +23,5 @@ UI.MainUI
 MainWindow(UI)
 
 ; IDE Options = PureBasic 6.00 LTS (Windows - x64)
-; CursorPosition = 15
+; CursorPosition = 4
 ; EnableXP
